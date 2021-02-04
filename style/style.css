@@ -1,0 +1,15 @@
+body{
+    background-color: #222831;
+    text-align: center;
+}
+
+.box{
+    background-color: #dddddd;
+    border-radius: 30px;
+    width: 400px;
+    height: 600px;
+    margin: 100px auto;
+    padding: 30px;
+    position: relative;
+}
+
